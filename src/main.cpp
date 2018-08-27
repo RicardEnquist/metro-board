@@ -5,7 +5,7 @@
 
   //--- Settings ---//
 const char* ssid = "Agnard"; //Wifi name
-const char* password = "kaffefilter"; //Wifi password
+const char* password = ""; //Wifi password
 int updateInterval = 30; //Seconds between API-updates
 
 
